@@ -1,0 +1,23 @@
+title: 3D Mirror Symmetry Mini Course
+subtitle: Shanghai Jiao Tong University
+date: September 1–5, 2026
+venue: Shanghai Jiao Tong University
+baseurl: ""
+theme: jekyll-nagymaros
+markdown: kramdown
+mathjax: true
+navigation:
+  - name: Home
+    link: /
+  - name: Program
+    link: /program/
+  - name: Speakers
+    link: /speakers/
+  - name: Organizers
+    link: /organizers/
+  - name: Registration
+    link: /registration/
+  - name: Venue & Accommodation
+    link: /accommodation/
+  - name: Reading List
+    link: /reading/
